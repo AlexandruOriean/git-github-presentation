@@ -1,7 +1,3 @@
-<style>
-a[title="to top"] { float: right; line-height: 2; }
-</style>
-
 # git and Github basics
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=6 orderedList=true} -->
