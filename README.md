@@ -4,9 +4,9 @@
 
 <!-- code_chunk_output -->
 
-1. [Creating a new project](#creating-a-new-project)
-2. [Contributing to an existing project](#contributing-to-an-existing-project)
-3. [Preamble](#preamble)
+1. [Preamble](#preamble)
+2. [Creating a new project](#creating-a-new-project)
+3. [Contributing to an existing project](#contributing-to-an-existing-project)
 4. [Commands](#commands)
    1. [Setting up](#setting-up)
    2. [`git init`](#git-init)
