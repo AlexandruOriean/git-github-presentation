@@ -72,6 +72,17 @@ Finally, push your changes, so that they are visible to github. Do this with the
 
 For this project, I have created a test suite and created the corresponding commits.
 
+To recap:
+
+1. Create a repo on github
+2. Navigate to your folder
+3. `git init`
+4. `git remote add origin <repo URL>`
+5. `git add <all relevant files>`
+6. `git commit -m "Commit message"`
+7. `git push origin master`
+8. Repeat from step 5 as needed
+
 ---
 
 ## Contributing to an existing project
