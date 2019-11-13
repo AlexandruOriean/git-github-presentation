@@ -1,11 +1,13 @@
-# git and Github basics
+    # git and Github basics
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=6 orderedList=true} -->
 
 <!-- code_chunk_output -->
 
-1. [Preamble](#preamble)
-2. [Commands](#commands)
+1. [Creating a new project](#creating-a-new-project)
+2. [Contributing to an existing project](#contributing-to-an-existing-project)
+3. [Preamble](#preamble)
+4. [Commands](#commands)
    1. [Setting up](#setting-up)
    2. [`git init`](#git-init)
    3. [`git add`](#git-add)
@@ -21,10 +23,16 @@
    13. [`git merge`](#git-merge)
    14. [`git pull`](#git-pull)
    15. [`git remote`](#git-remote)
-3. [Creating a new project](#creating-a-new-project)
-4. [Contributing to an existing project](#contributing-to-an-existing-project)
 
 <!-- /code_chunk_output -->
+
+---
+
+## Creating a new project
+
+---
+
+## Contributing to an existing project
 
 ---
 
@@ -418,11 +426,3 @@ $ git remote add origin <URL>
 As stated above, the name of the remote can be something other than **origin**, but it is that by convention; changing this will cause headaches down the road.
 
 [Back to top](#git-and-github-basics "to top")
-
----
-
-## Creating a new project
-
----
-
-## Contributing to an existing project
