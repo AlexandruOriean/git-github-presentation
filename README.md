@@ -58,6 +58,20 @@ The sample output of a command will show up like this:
 
 ## Creating a new project
 
+Let's start by creating a new project. Create a new folder and add some content; in this case, it will be a python script that computes the area of a circle, given a radius. I shall call this script `area_of_circle.py`.
+
+Navigate to your github page and [create a new repository](https://github.com/new). Give it a name, a description, and click "Create".
+
+Once you have the repository, go to your folder and run `git init` to start tracking this project.
+
+After you have some content, use `git add area_of_circle.py` to let git know about this file.
+
+Create your first commit, by running `git commit -m "Added script"`
+
+Finally, push your changes, so that they are visible to github. Do this with the command `git push origin master`.
+
+For this project, I have created a test suite and created the corresponding commits.
+
 ---
 
 ## Contributing to an existing project
