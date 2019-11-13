@@ -28,14 +28,6 @@
 
 ---
 
-## Creating a new project
-
----
-
-## Contributing to an existing project
-
----
-
 ## Preamble
 
 Below you will find the [list of git commands](#commands), the typical workflow for [creating a new project](#creating-a-new-project) as well as the workflow for [contributing to an existing project](#contributing-to-an-existing-project).
@@ -48,6 +40,8 @@ $ git log
 
 (The `$` indicates the prompt)
 
+Please note that the text in `<angle brackets>` should be replaced with your own text.
+
 The sample output of a command will show up like this:
 
 > ```bash
@@ -59,6 +53,14 @@ The sample output of a command will show up like this:
 > ```
 
 [Back to top](#git-and-github-basics "to top")
+
+---
+
+## Creating a new project
+
+---
+
+## Contributing to an existing project
 
 ---
 
