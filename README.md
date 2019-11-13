@@ -1,4 +1,4 @@
-    # git and Github basics
+# git and Github basics
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=6 orderedList=true} -->
 
