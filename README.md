@@ -16,13 +16,14 @@
    6. [`git log`](#git-log)
    7. [`git show`](#git-show)
    8. [`git diff`](#git-diff)
-   9. [`git branch`](#git-branch)
-   10. [`git checkout`](#git-checkout)
-   11. [`git push`](#git-push)
-   12. [`git fetch`](#git-fetch)
-   13. [`git merge`](#git-merge)
-   14. [`git pull`](#git-pull)
-   15. [`git remote`](#git-remote)
+   9. [`git clone`](#git-clone)
+   10. [`git branch`](#git-branch)
+   11. [`git checkout`](#git-checkout)
+   12. [`git push`](#git-push)
+   13. [`git fetch`](#git-fetch)
+   14. [`git merge`](#git-merge)
+   15. [`git pull`](#git-pull)
+   16. [`git remote`](#git-remote)
 
 <!-- /code_chunk_output -->
 
@@ -40,7 +41,7 @@ $ git log
 
 (The `$` indicates the prompt)
 
-Please note that the text in `<angle brackets>` should be replaced with your own text.
+Please note that the text in `<angle brackets>` should be replaced with your own text. Aditionally, text in `[square brackets]` is optional, i.e. you can skip it.
 
 The sample output of a command will show up like this:
 
@@ -269,6 +270,25 @@ $ git diff <file>
 > ```
 
 [Back to top](#git-and-github-basics "to top")
+
+---
+
+### `git clone`
+
+Allows you to clone a remote repository to your machine.
+
+```bash
+$ git clone <remote repository> [<local folder>]
+```
+
+> ```bash
+> Cloning into 'git-github-presentation'...
+> remote: Enumerating objects: 37, done.
+> remote: Counting objects: 100% (37/37), done.
+> remote: Compressing objects: 100% (26/26), done.
+> remote: Total 37 (delta 11), reused 33 (delta 7), pack-reused 0
+> Unpacking objects: 100% (37/37), done.
+> ```
 
 ---
 
