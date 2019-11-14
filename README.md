@@ -79,10 +79,11 @@ To recap:
 2. Navigate to your folder
 3. `git init`
 4. `git remote add origin <repo URL>`
-5. `git add <all relevant files>`
-6. `git commit -m "Commit message"`
-7. `git push origin master`
-8. Repeat from step 5 as needed
+5. Modify / add files
+6. `git add <all relevant files>`
+7. `git commit -m "Commit message"`
+8. `git push origin master`
+9. Repeat steps 5 - 8 as needed
 
 ---
 
@@ -289,6 +290,8 @@ $ git clone <remote repository> [<local folder>]
 > remote: Total 37 (delta 11), reused 33 (delta 7), pack-reused 0
 > Unpacking objects: 100% (37/37), done.
 > ```
+
+[Back to top](#git-and-github-basics "to top")
 
 ---
 
