@@ -85,6 +85,8 @@ To recap:
 8. `git push origin master`
 9. Repeat steps 5 - 8 as needed
 
+[Back to top](#git-and-github-basics "to top")
+
 ---
 
 ## Contributing to an existing project
@@ -106,6 +108,8 @@ To recap:
 1. Create a new pull request with a descriptive message
 1. Solve any conflicts
 1. Wait for the repo owner to do this
+
+[Back to top](#git-and-github-basics "to top")
 
 ---
 
