@@ -89,6 +89,24 @@ To recap:
 
 ## Contributing to an existing project
 
+Navigate to the project's repo URL and clone it with `git clone <URL>`. Create a new branch with `git checkout -b <new branch name>` and make all required changes. Add the changed files with `git add <list of files>`, commit with the relevant message (`git commit -m "<message>"`), and push the branch (`git push origin <branchname>`).
+
+Then, go to the github page of the project, click the "Pull requests" tab, and hit the "New pull request" button. Compare the `base: master` with the `compare: <branch name>` and click "Create pull request". Fill in the details, and click "Create pull request" again.
+
+If you see any conflicts, resolve them, otherwise wait for the repo owner to merge your changes.
+
+To recap:
+
+1. `git clone <URL>`
+1. `git checkout -b <new branch name>`
+1. Make the necessary changes
+1. `git add <files>`
+1. `git commit -m "<descriptive massage>"`
+1. `git push origin <branch name>`
+1. Create a new pull request with a descriptive message
+1. Solve any conflicts
+1. Wait for the repo owner to do this
+
 ---
 
 ## Commands
